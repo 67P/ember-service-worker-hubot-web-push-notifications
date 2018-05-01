@@ -1,0 +1,15 @@
+{
+  "name": "ember-service-worker-hubot-web-push-notifications",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ember-addon",
+    "ember-service-worker-plugin"
+  ],
+  "author": "Sebastian Kippe <sebastian@kip.pe>",
+  "license": "MIT"
+}
